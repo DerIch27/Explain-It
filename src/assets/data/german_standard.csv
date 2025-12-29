@@ -4,7 +4,7 @@ Maniküre,Fingernagel,Lack,Feile,Hand,Salon
 Hygiene,Körper,Dental,Produkte,Reinigen,Artikel,Desinfektionsmittel
 uralt,früher,Geschichte,Vergangenheit,Zeit,antik,jung
 amputieren,Bein,Arm,Verletzung,Operation,abtrennen
-Sahne,Milch,Kuchen,Butter,weiß,weich,essen,sauer,Eis,nachmittags
+Sahne,Milch,Kuchen,Butter,weiß,weich,essen,sauer,Eis,Nachmittag
 Ananas,gelb,Frucht,süß,tropisch,Melone
 Zimmermann,Schreiner,Handwerker,Holz,Dach,Beruf
 digital,Computer,Daten,Internet,analog,Smartphone,Papier,Bytes
@@ -20,7 +20,7 @@ Handtuch,Dusche,nass,abtrocknen,Frottee,Wasser,Schwimmbad,Seebad
 Kredit,Bank,Immobilie,Zinsen,Schulden,leihen,Sparkasse
 Anzeige,Display,Monitor,Werbung,Zeitung,Gesuch
 Griechenland,Staat,Italien,Mittelmeer,Urlaub,Antike,Euro-Krise
-Tier,Hund,Katze,Lebewesen,Fleisch,Kuh,Hase,Reptil,Frosch,Pferd,Pflanze
+Tier,Hund,Katze,Lebewesen,Fleisch,Kuh,Hase,Reptil,Frosch,Pferd,Pflanzen
 Zone,Bereich,Grenze,gesperrt,Gebiet,Ort
 Bergsteiger,Mount Everest,Gebirge,Sport,klettern,Wanderer,Alpen
 Chor,Gesang,Gruppe,Verein,Singen,zusammen,Musik,Lieder
@@ -34,7 +34,7 @@ Heilung,Medizin,gesund,Krankheit,Genesung,Arzt
 Frieden,Krieg,Gewalt,zusammenleben,Kapitulation,Angriff
 Garten,Pflanzen,Wiese,Rasen,Blumen,Sommer,Zuhause,grün,Zaun,Haus,Terasse
 Pirat,Seeräuber,Säbel,Freibeuter,Segelschiff,Überfall
-Alphabet,Buchstabe,ABC,Latein,Worte,Ziffern
+Alphabet,Buchstaben,ABC,Latein,Worte,Ziffern
 Moschee,Moslems,Islam,Kirche,Religion,Gebet
 Boden,Dielen,Laminat,Decke,Füße,unten,Raum
 unten,oben,Schwerkraft,fallen,Boden,niedrig
@@ -42,7 +42,7 @@ Zange,Werkzeug,Schere,Seitenschneider,Griffe,Hammer
 Geldautomat,Girocard,Scheine,Bargeld,Bank,Sparkasse
 Heiraten,Ehering,Paar,Verlobung,Hochzeit,Scheidung
 Duft,Parfum,Geruch,Nase,Gestank,angenehm
-Schulter,Arme,zwei,Rucksack,Oberkörper,Polster
+Schulter,Arm,zwei,Rucksack,Oberkörper,Polster
 klopfen,klatschen,Fingerknöchel,klingeln,Hand,Tür
 Sauna,Aufguss,Schweden,heiß,Welness,Handtuch,schwitzen,gesund,Finnland
 Futter,Tiere,essen,Nahrung,trinken,Trog
@@ -83,7 +83,7 @@ Scherbe,schneiden,zerstören,ungeschickt,spitz,Glas,Vase
 Scholle,Fisch,Eis,schwimmen,schnell,schmilzt
 Schuh,Matsch,schick,schrubben,Fuß,Socken,Stiefel,Sandale
 schieben,Stuhl,Tisch,Dusche,drücken,liegengeblieben
-Schürze,schützen,schmieren,gGschirrspühlmaschine,Koch,Grill,schmutzig
+Schürze,schützen,schmieren,Geschirrspühlmaschine,Koch,Grill,schmutzig
 Schaukel,Schwung,springen,Rutsche,Spielplatz,Spaß
 Kopfkissen,Bett,weich,schlafen,Kopf,Decke
 Regenbogen,Himmel,Farben,Sonne,Regentropfen,Lichtbrechung
@@ -157,7 +157,7 @@ Kuh,Milch,Tier,Bauernhof,Euter,Stall,melken,Flecken,Nutztier,Käse
 Schweiz,Land,Kreuz,Kantone,Alpen,Bundesstaat
 Sommer,Jahreszeit,warm,Ferien,Frühling,Herbst,Winter
 Auto,fahren,Transport,Wagen,Reifen,Führerschein,Räder
-Anzug,Hosen,Jacke,anziehen,Kleidungsstück,Krawatte
+Anzug,Hose,Jacke,anziehen,Kleidungsstück,Krawatte
 Arzt,Krankheit,Patient,Krankenhaus,Medizinstudium,gesund
 Wein,trinken,Flasche,rot,Korken,Trauben
 Paris,Eifelturm,Frankreich,Hauptstadt,Louvre,Baguette
@@ -180,7 +180,7 @@ Füller,schreiben,Tintenpatrone,nachfüllen,Notizblock,blau,Papier
 Restaurant,Essen,Freunde,Abendessen,Lokal,Gastronomie,Koch,Kellner
 Autoradio,Musik,hören,Gerät,Zuhörer,Verkehrsnachrichten
 Exponent,Potenz,hoch,Zahl,Mathematik,Basis
-Wurzel,Pflanze,Baum,Mathematik,Quadrat,Wasser,Boden
+Wurzel,Pflanzen,Baum,Mathematik,Quadrat,Wasser,Boden
 Mathematik,Schulfach,Zahlen,rechnen,Plus,Minus
 Funktion,Zuordnung,Mathe,Zweck,Sinn,x und Y,Graph
 Betrag,Zahl,Geld,Abstand,Striche,positiv,Vorzeichen
@@ -203,7 +203,7 @@ Stift,Kugelschreiber,Bleistift,schreiben,Papier,Buchstaben,zeichnen
 Rettungsschwimmer,DLRG,Schwimmbad,ertrinken,abschleppen,reanimieren,Notfall
 Feuerwehr,rot,Drehleiter,112,Notruf,brennen,löschen,Wasser
 Silvester,Neujahr,Ende,Feuerwerk,anstoßen,Feier
-Geburtstag,Alter,Jahre,Feier,Party,Jubiläum
+Geburtstag,Alter,Jahr,Feier,Party,Jubiläum
 Ostereier,Feiertag,Frühling,Huhn,Henne,suchen,bemalen
 Promi,berühmt,Star,Person,Sänger,Fans
 Streaming,Youtube,Netflix,Videos,schauen,Serien
@@ -218,7 +218,7 @@ Verspätung,Bahn,unpünktlich,Minuten,Ausfall,Ärgernis
 Fisch,Hai,Aal,Wasser,Tier,Forelle
 Bach,Fluss,Wasser,See,Meer,fließen
 Kiesel,Stein,rund,glatt,grau,Sand,Zentimeter
-Hexenkessel,rothaarig,Frauen,Magie,Zaubertrank,Besen
+Hexenkessel,rothaarig,Frau,Magie,Zaubertrank,Besen
 senden,E-Mail,Brief,Post,verschicken,Button
 Burger,McDonalds,Fast-Food,Salat,Sandwitch,Patty
 Zaunpfahl,Wink,Holz,Maschendraht,Befestigung,Abgrenzung
@@ -276,9 +276,9 @@ Torwart,Fußball,halten,Handschuhe,Strafraum,Spieler
 Venus,Planet,Erde,Merkur,Sonne,Mars
 Eisbär,Arktis,Nordpol,Polarmeer,weiß,Raubtier
 Farbe,Wellenlänge,rot,blau,grün,gelb,bunt
-Zeitschrift,Magazin,Ausgabe,Brigitte,Bild,Spiegel
+Zeitschrift,Magazin,Ausgaben,Brigitte,Bild,Spiegel
 Lichtschalter,Lampe,kippen,drücken,Wand,hell
-Schmerzmittel,Aspirin,Ibuprofen,Tablette,Medikament,Rückenschmerzen
+Schmerzmittel,Aspirin,Ibuprofen,Tablette,Medikamente,Rückenschmerzen
 Ordner,abheften,Locher,Papier,Leitz,Büro
 Vertrag,Unterschrift,Papierkram,Miete,Versicherungspolice,Abmachung
 Punkt,Komma,Satzzeichen,Ende,klein,i-Tüpfelchen
@@ -300,7 +300,7 @@ Wissenschaftler,Forscher,Akademiker,Universität,Professor,Studium
 Bohrer,Akkuschrauber,Loch,Steinwand,Holzplatte,Baustelle
 Saiteninstrument,Gitarre,Geige,Ukulele,Violoncello,Kontrabass,Musik
 Olympische Spiele,Griechenland,weltweit,Wettkampf,Sieger,Ringe
-Helm,Kopfschutz,Pickelhaube,Soldat,Fahrrad,Visier
+Helm,Kopfschutz,Pickelhaube,Soldaten,Fahrrad,Visier
 Lexikon,Brockhaus,Nachschlagewerk,universell,Buch,alphabetisch
 Kerze,Bienenwachs,Flamme,Docht,Duft,Feuerzeug
 Präsident,Staatsoberhaupt,Regierung,Vertreter,Wahl,Bundeskanzler
@@ -371,7 +371,7 @@ Chemie,Reinstoff,Schulfach,Explosion,Experiment,Verbindung,Gemisch
 Satzzeichen,Punkt,Komma,Semikolon,Schrift,Symbol
 Immobilie,Wohnhaus,Gebäude,unbeweglich,Hof,Hütte,Fabrikhalle
 Altar,Stein,Kirche,Bibel,Gottesdienst,Tisch
-Versuchskaninchen,Testobjekt,Tierversuche,Medikament,übertragen,erprobt,erstmalig
+Versuchskaninchen,Testobjekt,Tierversuche,Medikamente,übertragen,erprobt,erstmalig
 Alkohol,Bier,Wein,Schnaps,betrunken,Promille,Getränk
 Entwicklung,Veränderung,Fortschritt,Ziel,Industrialisierung,Verbesserung
 Wunde,Verletzung,Unfall,Blut,Schmerz,Entzündung,Verband
@@ -387,13 +387,13 @@ Katalog,Telefonbuch,Produkte,Übersicht,blättern,Händler
 Kopenhagener,Dänemark,Einwohner,Stadt,Person,Norden,Nord-Ostsee-Kanal
 Spiegelsaal,reflektiert,Schloss,Labyrinth,Versailles
 veräppeln,verarschen,Streich,1. April,reinlegen
-Insektenbefall,Fliegen,Mücken,Pestizide,Kammerjäger,Ameisen
+Insektenbefall,Fliege,Mücken,Pestizide,Kammerjäger,Ameisen
 Bombenteppich,Dresden,Weltkrieg,Schutt,Atomwaffe,viele
 reif,Obst,gut,verschimmelt,Apfel,Sommer
 aktualisieren,herunterladen,Sicherheitsupdate,Änderung,Feature,up to date
 zeitig,pünktlich,schnell,Eile,dringend
 Autoschlüssel,Fernbediehnung,aufschließen,Fahrzeug,Funksender,Zündung,starten
-losfahren,Bus,Start,Urlauf,rollen,Auto,Beginn
+losfahren,Bus,Start,Urlaub,rollen,Auto,Beginn
 Ionisationsvorgang,Ladung,positiv,Kochsalz,Elektronen,Teilchen
 Kontostand,Zahl,Schulden,Girokarte,ausgeben,Gehalt,soll
 zusammenbrauen,Hexenkessel,kochen,Bier,Gewitter,Himmel,Trank
@@ -444,7 +444,7 @@ weiterstreiken,Fortsetzung,Demonstration,Arbeitsaussetzung,Gelbwesten,Job,nicht
 Unterpfand,Bürgschaft,Garantie,Versprechen,25 ct,Plastikflaschen,Versicherung,Geld
 dahinmarschierend,Aufmarsch,Gleichschritt,Ziel,Militär,rechts,Trommel,Umzug
 dazwischenfunken,stören,Nervensäge,Kinder,Gespräch,Lücke,Walkie-Talkie
-abnehmen,Diät,Fett,Magersucht,Gewicht,essen,weniger
+abnehmen,Diät,Fett,Magersucht,Gewichte,essen,weniger
 Naturgenuss,Umwelt,Freude,Garten,Wald,draußen,Auszeit
 selbstsüchtig,Egoist,Charakterschwäche,egozentrisch,Altruismus,Abhängigkeit
 Abrüstungsverpflichtung,Nuklearwaffen,International,Sowjetunion,Atombombe,Friedensvertrag,Krieg
@@ -461,7 +461,7 @@ aufbahren,Sarg,Beerdigung,Gerichtsmedizin,Tote,Leiche,verabschieden
 Wollhaar,Nashorn,Tier,Fell,Kopf,Mammut,warm,Eiszeit
 Semesterbeginn,Studium,Universität,April,Oktober,Start,Halbjahr
 Eisernes Kreuz,Orden,Auszeichnung,Deutschland,Bundespräsident,Verdienst,Zeremonie
-sexistisch,Feminismus,Ungleichheit,Gender Pay Gap,Diskriminierung,Frauen,Männer,Karriere
+sexistisch,Feminismus,Ungleichheit,Gender Pay Gap,Diskriminierung,Frau,Männer,Karriere
 Autodach,Schiebedach,Cabrio,Fahrzeug,Regenschutz,PKW,oben
 Proprietär,kommerziell,Open Source,Windows,Software,kostenpflichtig
 Parfumduft,stinkt,Zerstäuber,Lavendel,Geruch,Rosen
@@ -470,7 +470,7 @@ visualisiert,Anzeige,GUI,Disgramm,Statistiken,Power Point,veranschaulichen
 zufließen,Quelle,Mündung,Bach,Fluss,Finanzströme,Wasser,Meer
 übel nehmen,verärgert,Hass,Ereignis,jemand,nachtragend,Versehen
 fünfwertig,vier,sechs,Zahl,Ladung,Chemie
-Insektenkunde,Zoologie,Fliege,Mücke,Biologe,Mensch,Wissenschaftler
+Insektenkunde,Zoologie,Fliege,Mücken,Biologe,Mensch,Wissenschaftler
 Reisöl,Getreide,Fett,Asien,weiß,flüssig
 personalisiert,individuell,Daten,angepasst,Werbung,Datenschutz
 Seefahrer,Segler,Containerschiff,Weltmeere,Kapitän,Boot
@@ -515,3 +515,40 @@ mitlesen,Spionage,Smartphone,Nachrichten,abhöhren,rüberschauen
 gesüßt,Zucker,Geschmacksverstärker,Kuchen,Snack
 Birnensaft,Apfelschorle,Getränk,Obst,Frucht,Glas
 bewundern,Superstar,bestaunen,Vorbild,Fankultur,hochschauen
+Hoteleingang,Pension,Tür,Übernachtung,betreten,Rezeption,Tor
+vorhersehen,Wahrsager,Glaskugel,prophezeihen,Zukunft,Astrologie
+Antike,Epoche,Römer,Jahrtausend,Geschichte,Kolosseum
+begleiten,Spaziergang,Freunde,Unterstützung,helfen,Heimweg
+3-Meter-Brett,Schwimmbad,Sprungturm,Arschbombe,Startblock,hoch
+Vorsitz,Vorstand,Verein,Unternehmen,Verantwortung,Chef
+Gauner,Verbrecher,Dieb,Kriminalität,Polizei,Betrug
+tunneln,Fußball,Unterführung,Beine,Straße,zwischen
+einfallen,Geistesblitz,Gedanken,Idee,überlegen
+Fahrzeughersteller,Volkswagen,Unternehmen,Audi,Opel,Ford,Auto,BMW
+umdisponieren,Umentscheiden,Planänderung,spontan,Improvisation
+Böller,Feuerwerkskörper,Polen,Silvester,Knall,Feiern
+Julikrise,1914,Weltkrieg,Ermordung,Serbien,Franz Ferdinand
+humanitär,Rotes Kreuz,Hilfsgüter,Kriegsgebiete,Essenslieferungen,Ärzte ohne Grenzen
+irreführen,reingelegt,Betrug,anlügen,hintergehen
+scharfgestellt,Kamera,Autofokus,verschwommen,Chilli,Bildqualität
+homosexuell,Regenbogen,schwul,lesbisch,LGBTQ+,gleichgeschlechtlich,Beziehung,queer
+Nagellack,Fingerspitzen,Aussehen,schön,Farbe,Hand,anmalen
+weitertreiben,Wasser,Weg,Fortsetzung,Strömung,Bach,lassen
+aufnehmen,Kamera,Video,TikTok,Strömung,dokumentieren,Bildmaterial,Smartphone
+regenerationsfähig,nachhaltig,nachwachsen,Natur,Schaden,kaputt
+Auswirkung,Langzeitfolgen,Schaden,Zusammenhang,Ursache
+Organisationsform,GmbH,Unternehmen,Firma,Verein,Stiftung,Rechtsform
+abgrasend,Kühe,grün,Weide,fressen,Wiese
+größenwahnsinnig,Selbstüberschätzung,Egoismus,Königreich,Scheitern
+Vorrang,Vorfahrt,Kreuzung,Prioritätensetzung,gewähren
+waagrecht,senkrecht,gerade,Wasserwaage,exakt,eben
+ausrasten,wütend,Sicherung,Anfall,schreien
+parieren,fechten,Schwert,abwehren,Gefahr,Kampf
+Weltmeisterschaft,Fußball,Olympia,Wettkampf,Sieger,Goldmedallie
+anreichen,geben,servieren,halten,darbieten
+Gleitschirmflieger,Segelflugzeug,Fallschirm,springen,Flughönchen,Flügel
+Summe,Produkt,addieren,Plus,rechnen,Minus,Subtraktion
+Freund,Bekannte,Beziehung,Gruppe,Menschen,Partner
+Konsumverzicht,fasten,Gelf,sparen,Nachhaltigkeit,nicht,weniger
+fettleibig,Übergewicht,BMI,Adipositas,schwer,Fast Food
+Arbeitsunfall,Berufsgenossenschaft,Verletzung,arbeitsunfähig,Versicherung

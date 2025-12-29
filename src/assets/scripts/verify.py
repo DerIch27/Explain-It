@@ -1,3 +1,4 @@
+from rapidfuzz import fuzz
 import json
 import csv
 import io
@@ -42,3 +43,16 @@ for languageCode, languageInfo in directory.items():
             writer = csv.writer(file)
             for key, words in sorted(graph.items()):
                 writer.writerow([key]+list(words))
+
+def checkSimilarity(allWords: list[str]):
+    allMatches: list[tuple[float, str, str]] = []
+    for idx in range(len(allWords)):
+        i = allWords[idx]
+        for j in allWords[idx+1:]:
+            score = fuzz.ratio(i, j)
+            if 70 < score < 100:
+                allMatches.append((score, i, j))
+            if i[:len(j)] == j or j[:len(i)] == i: 
+                if abs(len(i)-len(j)) <= 3: print(i, j)
+    for s, i, j in sorted(allMatches, key=lambda x:x[0]): print(round(s,2), i, j)
+#checkSimilarity([i.lower() for i in graph.keys()])
